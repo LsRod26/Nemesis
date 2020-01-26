@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Nemesis\Nemesis\bin\Debug\Nemesis.exe
+C:\Users\admin\source\repos\Nemesis\Nemesis\bin\Debug\Nemesis.pdb
+C:\Users\admin\source\repos\Nemesis\Nemesis\bin\Debug\Nemesis.xml
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.Resources.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.exe
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.xml
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.pdb
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.login.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.PaginaPrincipal.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.AgregarEstudiante.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.AgregarDocente.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.AgregarRepresentante.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.txtnombresabuscar.resources
+C:\Users\admin\source\repos\Nemesis\Nemesis\obj\Debug\Nemesis.Citacion.resources
